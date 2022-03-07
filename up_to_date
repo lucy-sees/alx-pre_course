@@ -1,1 +1,1 @@
-file exists
+echo "file exists" > up_to_date
