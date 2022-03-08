@@ -1,1 +1,1 @@
-#!/bin/bash \n ALX School is so cool!
+#!/bin/bash\n echo "The school is open!"
